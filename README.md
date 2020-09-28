@@ -11,3 +11,7 @@
 
 ### Use executable script
 Create a bash script described in the example project README.rst
+
+
+### Useful link
+![PlatformIO titiva latest release notes](https://docs.platformio.org/en/latest/platforms/titiva.html)
