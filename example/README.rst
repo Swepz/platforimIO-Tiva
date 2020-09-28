@@ -8,26 +8,26 @@ How to build PlatformIO based project
 Optional: Create a executable file(chmod +x myexecutablefile.sh) and run from terminal(See following below).
 
 
-Add shebang
+# Add shebang
 
-!# /usr/bin/bash
+```!# /usr/bin/bash```
 
 # Build project
 
-platformio run
+```platformio run```
 
 # Upload firmware
 
-platformio run --target upload
+```platformio run --target upload```
 
 # Build specific environment
 
-platformio run -e 'lptm4c1294ncpdt board'
+```platformio run -e 'lptm4c1294ncpdt board'```
 
 # Upload firmware for the specific environment
 
-platformio run -e 'lptm4c1294ncpdt board' --target upload
+```platformio run -e 'lptm4c1294ncpdt board' --target upload```
 
 # Clean build files
 
-> platformio run --target clean
+```platformio run --target clean```
