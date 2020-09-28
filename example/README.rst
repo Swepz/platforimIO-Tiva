@@ -11,24 +11,28 @@ Optional: Create a executable file(chmod +x myexecutablefile.sh) and run from te
 
 Add shebang
 
-> !# /usr/bin/bash
+```bash
 
-Build project
+!# /usr/bin/bash
 
-> platformio run
+# Build project
 
-Upload firmware
+platformio run
 
-> platformio run --target upload
+# Upload firmware
 
-Build specific environment
+platformio run --target upload
 
-> platformio run -e 'lptm4c1294ncpdt board'
+# Build specific environment
 
-Upload firmware for the specific environment
+platformio run -e 'lptm4c1294ncpdt board'
 
-> platformio run -e 'lptm4c1294ncpdt board' --target upload
+# Upload firmware for the specific environment
 
-Clean build files
+platformio run -e 'lptm4c1294ncpdt board' --target upload
+
+# Clean build files
 
 > platformio run --target clean
+
+```
