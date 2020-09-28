@@ -2,12 +2,14 @@
 =====================================
 
 ### IDE
+
 1. ![Install PlatformIO IDE](https://platformio.org/install/ide)
 2. Install Tiva board from inside platformio interface.
 3. Follow instructions to create a new project.
 4. Select board of type 'Tiva'
 
 ### CLI
+
 1.![Install PlatformIO Core](http://docs.platformio.org/page/core.html)
 2. Create a executable file(chmod +x build_run.sh) and run from terminal(See following below).
 
