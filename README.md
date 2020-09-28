@@ -10,7 +10,7 @@
 3. Create a new project with choosen platformio IDE
 
 ### Use executable script
-Create a bash script described in the example project README.rst
+Create a bash script described in the example project README.rst or make build_run.sh execuable by "chmod +x build_run.sh" if the board is a tm4c1294* type.
 
 ### How to write C/CPP/INO?
 
