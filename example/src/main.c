@@ -1,5 +1,6 @@
 // Core library for code-sense
 #if defined(ENERGIA)
+#define PART_TM4C129ENCPDT
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdlib.h>
