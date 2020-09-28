@@ -8,10 +8,7 @@ How to build PlatformIO based project
 Optional: Create a executable file(chmod +x myexecutablefile.sh) and run from terminal(See following below).
 
 
-
 Add shebang
-
-```bash
 
 !# /usr/bin/bash
 
@@ -34,5 +31,3 @@ platformio run -e 'lptm4c1294ncpdt board' --target upload
 # Clean build files
 
 > platformio run --target clean
-
-```
