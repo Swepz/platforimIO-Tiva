@@ -1,5 +1,4 @@
 # How to build PlatformIO based project from CLI
-=====================================
 
 ### IDE
 
