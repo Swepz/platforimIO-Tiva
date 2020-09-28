@@ -4,7 +4,7 @@ How to build PlatformIO based project
 1. `Install PlatformIO Core <http://docs.platformio.org/page/core.html>`_
 2. Download `development platform with examples <https://github.com/platformio/platform-titiva/archive/develop.zip>`_
 3. Extract ZIP archive
-4. Use a platformio compatible IDE/text editor(I perfer vscode):
+4. Use a platformio compatible IDE/text editor(I recommend vscode):
 Optional: Create a executable file(chmod +x myexecutablefile.sh) and run from terminal(See following below).
 
 
