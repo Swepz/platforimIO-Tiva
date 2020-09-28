@@ -7,9 +7,11 @@ How to build PlatformIO based project
 4. Use a platformio compatible IDE/text editor(I perfer vscode):
 Optional: Create a executable file(chmod +x myexecutablefile.sh) and run from terminal(See following below).
 
-.. code-block:: bash
 
-!# /usr/bin/bash
+
+Add shebang
+
+> !# /usr/bin/bash
 
 Build project
 
