@@ -13,26 +13,26 @@
 2. Create a executable file(chmod +x build_run.sh) and run from terminal(See following below).
 
 
-# Add shebang
+##### Add shebang
 
 ``!# /usr/bin/bash``
 
-# Build project
+#####  Build project
 
 ``platformio run``
 
-# Upload firmware
+#####  Upload firmware
 
 ``platformio run --target upload``
 
-# Build specific environment
+#####  Build specific environment
 
 ``platformio run -e 'lptm4c1294ncpdt board'``
 
-# Upload firmware for the specific environment
+#####  Upload firmware for the specific environment
 
 ``platformio run -e 'lptm4c1294ncpdt board' --target upload``
 
-# Clean build files
+#####  Clean build files
 
 ``platformio run --target clean``
