@@ -6,10 +6,11 @@
 
 ### Install Tiva boards in IDE 
 1. Open platformio interface in IDE
-2. Boards -> Search: Tiva -> Install
+2. Platforms -> Search: Tiva -> Install
 3. Create a new project with choosen platformio IDE
+4. You are done.
 
-### Use executable script
+### Run and upload via executable script?
 Create a bash script described in the example project README.rst or make build_run.sh execuable by "chmod +x build_run.sh" if the board is a tm4c1294* type.
 
 ### How to write C/CPP/INO?
