@@ -1,8 +1,8 @@
 # Setup guide for Texas Instruments Tiva Launchpads(TM4C) embedded projects using platformIO
 
 
-1. Install ![PlatformIO](https://www.platformio.org/install/)
-2. Install “udev” rules ![99-platformio-udev.rules](https://docs.platformio.org/en/latest/faq.html#faq-udev-rules) for debugging.
+1. Install [PlatformIO][https://www.platformio.org/install/]
+2. Install “udev” rules [99-platformio-udev.rules][https://docs.platformio.org/en/latest/faq.html#faq-udev-rules] for debugging.
 
 ### Install Tiva boards in IDE 
 1. Open platformio interface in IDE
@@ -14,7 +14,7 @@ Create a bash script described in the example project README.rst or make build_r
 
 ### How to write C/CPP/INO?
 
-See the examples from ![platformio examples](https://github.com/platformio/platform-titiva/tree/master/examples?utm_source=platformio.org&utm_medium=docs)
+See the examples from [platformio examples][https://github.com/platformio/platform-titiva/tree/master/examples?utm_source=platformio.org&utm_medium=docs]
 
 These examples can be found inside platformIO IDE -> boards -> Tiva -> Examples
 
@@ -22,13 +22,13 @@ These examples can be found inside platformIO IDE -> boards -> Tiva -> Examples
 
 > #include "Energia.h"
 
-## For more information go to ![platformio.org](https://platformio.org/)
+## For more information go to [platformio.org][https://platformio.org/]
 
 
 ### Known errors/warnings messages: 
 
 #### libncurses.so.5 missing:
-Solution: ![libncurses](https://stackoverflow.com/questions/17005654/error-while-loading-shared-libraries-libncurses-so-5)
+Solution: [libncurses][https://stackoverflow.com/questions/17005654/error-while-loading-shared-libraries-libncurses-so-5]
 
 #### OpenOCD errors
 
