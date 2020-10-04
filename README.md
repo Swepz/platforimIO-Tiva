@@ -22,7 +22,7 @@ These examples can be found inside platformIO IDE -> boards -> Tiva -> Examples
 
 > #include "Energia.h"
 
-## For more information go to [platformio.org](https://platformio.org/platforms/titiva)
+## For more information go to [platformio Tiva](https://platformio.org/platforms/titiva)
 
 
 ### Known errors/warnings messages: 
