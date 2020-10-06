@@ -28,7 +28,7 @@ These examples can be found inside platformIO IDE -> boards -> Tiva -> Examples
 
 ### Known errors/warnings messages: 
 
-#### libncurses.so.5 missing:
+#### libncurses.so.5 missing: Verify by starting debug session and open debug console(IDE).
 Solution: Install following [ncurses5-compat-libs](https://aur.archlinux.org/packages/ncurses5-compat-libs/) & [lib32-ncurses5-compat-libs](https://aur.archlinux.org/packages/lib32-ncurses5-compat-libs/)
 
 #### OpenOCD errors
