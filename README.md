@@ -29,7 +29,7 @@ These examples can be found inside platformIO IDE -> boards -> Tiva -> Examples
 ### Known errors/warnings messages: 
 
 #### libncurses.so.5 missing:
-Solution: [libncurses](https://stackoverflow.com/questions/17005654/error-while-loading-shared-libraries-libncurses-so-5)
+Solution: Install following [ncurses5-compat-libs](https://aur.archlinux.org/packages/ncurses5-compat-libs/) & [lib32-ncurses5-compat-libs](https://aur.archlinux.org/packages/lib32-ncurses5-compat-libs/)
 
 #### OpenOCD errors
 
