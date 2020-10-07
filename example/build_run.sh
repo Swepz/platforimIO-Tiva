@@ -1,6 +1,4 @@
 !# /usr/bin/bash
-# Change directory to example
-cd platformIO-/example
 
 # Build project
 platformio run
