@@ -1,7 +1,7 @@
 # Setup guide for Texas Instruments Tiva Launchpads(TM4C) embedded projects using platformIO
 
 
-1. Install [PlatformIO](https://www.platformio.org/install/)
+1. Install [PlatformIO](https://platformio.org/)
 2. Install “udev” rules [99-platformio-udev.rules](https://docs.platformio.org/en/latest/faq.html#faq-udev-rules) for debugging.
 
 ### Install Tiva boards in IDE 
